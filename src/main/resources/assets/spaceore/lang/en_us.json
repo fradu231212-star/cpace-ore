@@ -1,0 +1,13 @@
+{
+  "itemGroup.spaceore.main": "Space Ore",
+  "block.spaceore.cosmic_ore": "Cosmic Ore",
+  "block.spaceore.cosmic_block": "Cosmic Block",
+  "item.spaceore.raw_cosmic_ore": "Raw Cosmic Ore",
+  "item.spaceore.cosmic_ingot": "Cosmic Ingot",
+  "item.spaceore.cosmic_shard": "Cosmic Shard",
+  "item.spaceore.cosmic_crystal": "Cosmic Crystal",
+  "item.spaceore.star_core": "Star Core",
+  "item.spaceore.cosmic_sword": "Cosmic Sword",
+  "item.spaceore.cosmic_pickaxe": "Cosmic Pickaxe",
+  "item.spaceore.cosmic_blade": "Cosmic Blade"
+}

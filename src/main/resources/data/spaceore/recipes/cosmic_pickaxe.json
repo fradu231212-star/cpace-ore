@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "pattern": ["CCC"," S "," S "],
+  "key": {"C": {"item": "spaceore:cosmic_ingot"}, "S": {"item": "minecraft:stick"}},
+  "result": {"id": "spaceore:cosmic_pickaxe", "count": 1}
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredient": {"item": "spaceore:raw_cosmic_ore"},
+  "result": {"id": "spaceore:cosmic_ingot"}
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["CCC","CCC","CCC"],
+  "key": {"C": {"item": "spaceore:cosmic_ingot"}},
+  "result": {"id": "spaceore:cosmic_block", "count": 1}
+}

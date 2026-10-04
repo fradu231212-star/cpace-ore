@@ -1,0 +1,13 @@
+{
+  "itemGroup.spaceore.main": "Космическая руда",
+  "block.spaceore.cosmic_ore": "Космическая руда",
+  "block.spaceore.cosmic_block": "Космический блок",
+  "item.spaceore.raw_cosmic_ore": "Сырая космическая руда",
+  "item.spaceore.cosmic_ingot": "Космический слиток",
+  "item.spaceore.cosmic_shard": "Космический осколок",
+  "item.spaceore.cosmic_crystal": "Космический кристалл",
+  "item.spaceore.star_core": "Ядро звезды",
+  "item.spaceore.cosmic_sword": "Космический меч",
+  "item.spaceore.cosmic_pickaxe": "Космическая кирка",
+  "item.spaceore.cosmic_blade": "Космический клинок"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [" C "," C "," S "],
+  "key": {"C": {"item": "spaceore:cosmic_ingot"}, "S": {"item": "minecraft:stick"}},
+  "result": {"id": "spaceore:cosmic_sword", "count": 1}
+}
